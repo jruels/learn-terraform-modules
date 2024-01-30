@@ -1,4 +1,4 @@
-e Terraform configuration
+# Terraform configuration
 
 terraform {
   required_providers {
